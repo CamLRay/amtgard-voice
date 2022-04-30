@@ -2,3 +2,11 @@ node_modules/
 .DS_Store
 dist/
 coverage/
+src/
+.babelrc
+.eslintrc
+package-lock.json
+package.json
+README.md
+webpack.config.js
+.vscode
